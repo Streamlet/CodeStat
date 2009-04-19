@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过下列属性集
 // 控制。更改这些属性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("CodeStat")]
+[assembly: AssemblyTitle("源代码行数统计工具")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("溪流网站")]
+[assembly: AssemblyCompany("溪流软件工作室")]
 [assembly: AssemblyProduct("CodeStat")]
-[assembly: AssemblyCopyright("Copyright © 溪流网站 2008")]
+[assembly: AssemblyCopyright("Copyright © 溪流软件工作室 2008 - 2009")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
