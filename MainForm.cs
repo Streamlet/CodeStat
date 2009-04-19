@@ -300,6 +300,11 @@ namespace Streamlet.CodeStat
             {
                 MessageBox.Show("保存文件失败。", "错误", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
-        }
+		}
+
+		private void linkLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+		{
+			System.Diagnostics.Process.Start("http://www.streamlet.com.cn/", null);
+		}
     }
 }
